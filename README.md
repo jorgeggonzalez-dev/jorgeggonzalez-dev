@@ -14,7 +14,7 @@ Me gusta automatizar tareas, entender el funcionamiento de las redes y construir
 ---
 
 ## 🚀 Proyectos Destacados
-* 📦 [Simulador de Compra en Python](simulador_compra_python): Un script interactivo con lógica de cálculo y validación de datos para simular transacciones de forma eficiente.
+* 📦 [Simulador de Compra en Python](https://github.com/jorgeggonzalez-dev/simulador_compra_python): Un script interactivo con lógica de cálculo y validación de datos para simular transacciones de forma eficiente.
 
 ---
 
