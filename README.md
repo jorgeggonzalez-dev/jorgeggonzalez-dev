@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge 👋
 
-<!--
-**jorgeggonzalez-dev/jorgeggonzalez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi portafolio! Soy estudiante de **Programación** enfocado en el desarrollo con Python y apasionado por el mundo de la **Ciberseguridad y la Infraestructura (DevSecOps)**. 
 
-Here are some ideas to get you started:
+Me gusta automatizar tareas, entender el funcionamiento de las redes y construir soluciones con código limpio y seguro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas (Skills)
+* **Lenguajes de Programación:** Python (Manejo de módulos y consumo de APIs)
+* **Herramientas de Control:** Git & GitHub
+* **Sistemas Operativos:** Windows
+
+---
+
+## 🚀 Proyectos Destacados
+* 📦 [Simulador de Compra en Python](simulador_compra_python): Un script interactivo con lógica de cálculo y validación de datos para simular transacciones de forma eficiente.
+
+---
+
+## 📈 Metas actuales
+* 🎓 Iniciar mis estudios universitarios de Ingeniería.
+* 🛡️ Profundizar en fundamentos de redes, seguridad informática y administración de servidores.
+* 🗣️ Mejorar de forma continua mi inglés técnico para la documentación de software.
