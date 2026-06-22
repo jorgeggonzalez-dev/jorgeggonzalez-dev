@@ -16,7 +16,7 @@ Me gusta automatizar tareas, entender el funcionamiento de las redes y construir
 ## 🚀 Proyectos Destacados
 * 📦 [Simulador de Compra en Python](https://github.com/jorgeggonzalez-dev/simulador_compra_python): Un script interactivo con lógica de cálculo y validación de datos para simular transacciones de forma eficiente.
 * 📦 [Simulador de Registro y Autenticación de Usuarios](https://github.com/jorgeggonzalez-dev/simulador_registro_login): Un script interactivo con lógica y validación de usuario y contraseñas para simular un login de forma eficiente.
-* 📦 Mini Escáner de Puertos Interactivo[](https://github.com/jorgeggonzalez-dev/mini-escaner-puertos): Un script interactivo y sencillo desarrollado en Python para auditar y verificar el estado de puertos específicos en un dispositivo de red.
+* 📦[Mini Escáner de Puertos Interactivo](https://github.com/jorgeggonzalez-dev/mini-escaner-puertos): Un script interactivo y sencillo desarrollado en Python para auditar y verificar el estado de puertos específicos en un dispositivo de red.
 
 ---
 
